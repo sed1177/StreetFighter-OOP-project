@@ -4,7 +4,7 @@ This project is a game of StreetFighter using Object Oriented Programming syntax
 
 ## How It's Made:
 
-**Tech used:**: JavaScript
+**Tech used:** JavaScript
 
 I used Javascript for the logic of this project.
 
